@@ -1,0 +1,48 @@
+{
+  "defaults": {
+    "project": 2,
+    "env": 1
+  },
+  "actives": {
+    "project": 2,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "15948000000004016",
+      "name": "Project-Rainfall",
+      "domain": {
+        "id": "10065407717",
+        "name": "project-rainfall-828618942.development"
+      },
+      "timezone": "Africa/Nairobi",
+      "env": [
+        {
+          "idx": 1,
+          "id": "828618942",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "id": "15948000000024005",
+      "name": "ToDoList",
+      "domain": {
+        "id": "10082147263",
+        "name": "todolist-828618942.development"
+      },
+      "timezone": "Africa/Nairobi",
+      "env": [
+        {
+          "idx": 1,
+          "id": "828618942",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

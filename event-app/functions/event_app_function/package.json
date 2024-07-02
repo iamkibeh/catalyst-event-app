@@ -1,0 +1,9 @@
+{
+	"name": "event_app_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "admin@demo5.vendeur-afrique.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}

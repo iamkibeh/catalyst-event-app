@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "15948000000041001",
+      "name": "EventApp",
+      "domain": {
+        "id": "10083337604",
+        "name": "eventapp-828618942.development"
+      },
+      "timezone": "Africa/Nairobi",
+      "env": [
+        {
+          "idx": 1,
+          "id": "828618942",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

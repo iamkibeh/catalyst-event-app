@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "targets": [
+      "event_app_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "event-app-client",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}
